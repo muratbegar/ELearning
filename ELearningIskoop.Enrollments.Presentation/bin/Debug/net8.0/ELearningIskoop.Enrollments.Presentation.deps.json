@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ELearningIskoop.Enrollments.Presentation/1.0.0": {
+        "runtime": {
+          "ELearningIskoop.Enrollments.Presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ELearningIskoop.Enrollments.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

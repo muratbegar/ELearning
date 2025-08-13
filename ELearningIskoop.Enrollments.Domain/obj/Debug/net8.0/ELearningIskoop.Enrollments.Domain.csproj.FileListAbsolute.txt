@@ -1,0 +1,12 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\bin\Debug\net8.0\ELearningIskoop.Enrollments.Domain.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\bin\Debug\net8.0\ELearningIskoop.Enrollments.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\bin\Debug\net8.0\ELearningIskoop.Enrollments.Domain.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\refint\ELearningIskoop.Enrollments.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ELearningIskoop.Enrollments.Domain.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Domain\obj\Debug\net8.0\ref\ELearningIskoop.Enrollments.Domain.dll

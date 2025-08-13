@@ -1,0 +1,13 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\bin\Debug\net8.0\ELeraningIskoop.ServiceDefaults.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\bin\Debug\net8.0\ELeraningIskoop.ServiceDefaults.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\bin\Debug\net8.0\ELeraningIskoop.ServiceDefaults.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\refint\ELeraningIskoop.ServiceDefaults.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ELeraningIskoop.ServiceDefaults.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELeraningIskoop.ServiceDefaults\obj\Debug\net8.0\ref\ELeraningIskoop.ServiceDefaults.dll

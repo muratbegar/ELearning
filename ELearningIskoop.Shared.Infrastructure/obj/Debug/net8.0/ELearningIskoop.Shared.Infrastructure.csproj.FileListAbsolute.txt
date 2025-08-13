@@ -1,0 +1,12 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\bin\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\bin\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\bin\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\refint\ELearningIskoop.Shared.Infrastructure.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Shared.Infrastructure.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Infrastructure\obj\Debug\net8.0\ref\ELearningIskoop.Shared.Infrastructure.dll

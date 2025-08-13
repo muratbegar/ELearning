@@ -1,0 +1,12 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\bin\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\bin\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\bin\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\refint\ELearningIskoop.Enrollments.Infrastructure.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ELearningIskoop.Enrollments.Infrastructure.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Infrastructure\obj\Debug\net8.0\ref\ELearningIskoop.Enrollments.Infrastructure.dll

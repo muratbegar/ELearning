@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.application\\services\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|solutionrelative:elearningiskoop.users.application\\services\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9497872-12DE-492F-B307-92C5E8BD8D36}|ELearningIskoop.Users.Infrastructure\\ELearningIskoop.Users.Infrastructure.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.infrastructure\\seeds\\userdataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9497872-12DE-492F-B307-92C5E8BD8D36}|ELearningIskoop.Users.Infrastructure\\ELearningIskoop.Users.Infrastructure.csproj|solutionrelative:elearningiskoop.users.infrastructure\\seeds\\userdataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1308FC72-DF2F-4E4B-BEE7-0370A370DAA3}|ELearningIskoop.Users.Domain\\ELearningIskoop.Users.Domain.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.domain\\events\\userdomainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1308FC72-DF2F-4E4B-BEE7-0370A370DAA3}|ELearningIskoop.Users.Domain\\ELearningIskoop.Users.Domain.csproj|solutionrelative:elearningiskoop.users.domain\\events\\userdomainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1308FC72-DF2F-4E4B-BEE7-0370A370DAA3}|ELearningIskoop.Users.Domain\\ELearningIskoop.Users.Domain.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.domain\\entitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1308FC72-DF2F-4E4B-BEE7-0370A370DAA3}|ELearningIskoop.Users.Domain\\ELearningIskoop.Users.Domain.csproj|solutionrelative:elearningiskoop.users.domain\\entitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.application\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|solutionrelative:elearningiskoop.users.application\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|solutionrelative:elearningiskoop.users.application\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|c:\\users\\muratbegar\\source\\repos\\mbiskoopelearning\\elaerningiskoop\\elearningiskoop.users.application\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A52766E-1767-42B3-B314-CD4AF1B8DD44}|ELearningIskoop.Users.Application\\ELearningIskoop.Users.Application.csproj|solutionrelative:elearningiskoop.users.application\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Infrastructure\\Seeds\\UserDataSeeder.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Infrastructure\\Seeds\\UserDataSeeder.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Infrastructure\\Seeds\\UserDataSeeder.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Infrastructure\\Seeds\\UserDataSeeder.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:14:20.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDomainEvents.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Domain\\Events\\UserDomainEvents.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Domain\\Events\\UserDomainEvents.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Domain\\Events\\UserDomainEvents.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Domain\\Events\\UserDomainEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:55.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Domain\\Entitites\\User.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Domain\\Entitites\\User.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Domain\\Entitites\\User.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Domain\\Entitites\\User.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwE4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:12:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Application\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Application\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvygAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:11:58.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\IUserManager.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Application\\Services\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\IUserManager.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Application\\Services\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:11:54.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Application\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Application\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAIwJAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:10:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "ELearningIskoop.Users.Application\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.Users.Application\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "ELearningIskoop.Users.Application\\Services\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:10:46.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

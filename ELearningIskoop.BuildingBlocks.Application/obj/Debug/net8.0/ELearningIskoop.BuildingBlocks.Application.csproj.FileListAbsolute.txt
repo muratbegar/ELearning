@@ -1,0 +1,13 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\bin\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\bin\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\bin\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.csproj.AssemblyReference.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\refint\ELearningIskoop.BuildingBlocks.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ELearningIskoop.BuildingBlocks.Application.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.BuildingBlocks.Application\obj\Debug\net8.0\ref\ELearningIskoop.BuildingBlocks.Application.dll

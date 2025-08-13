@@ -1,0 +1,12 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\bin\Debug\net8.0\ELearningIskoop.Learning.Application.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\bin\Debug\net8.0\ELearningIskoop.Learning.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\bin\Debug\net8.0\ELearningIskoop.Learning.Application.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\refint\ELearningIskoop.Learning.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ELearningIskoop.Learning.Application.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Learning.Application\obj\Debug\net8.0\ref\ELearningIskoop.Learning.Application.dll

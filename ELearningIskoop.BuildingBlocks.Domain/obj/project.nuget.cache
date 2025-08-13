@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "veLy9SisAB0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muratbegar\\source\\repos\\MBIskoopElearning\\elaerningiskoop\\ELearningIskoop.BuildingBlocks.Domain\\ELearningIskoop.BuildingBlocks.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muratbegar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

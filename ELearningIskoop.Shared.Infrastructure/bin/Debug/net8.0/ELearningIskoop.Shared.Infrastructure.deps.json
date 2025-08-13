@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ELearningIskoop.Shared.Infrastructure/1.0.0": {
+        "runtime": {
+          "ELearningIskoop.Shared.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ELearningIskoop.Shared.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

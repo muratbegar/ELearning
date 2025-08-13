@@ -1,0 +1,16 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\bin\Debug\net8.0\ELearningIskoop.Shared.Domain.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\bin\Debug\net8.0\ELearningIskoop.Shared.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\bin\Debug\net8.0\ELearningIskoop.Shared.Domain.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\bin\Debug\net8.0\ELearningIskoop.BuildingBlocks.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\bin\Debug\net8.0\ELearningIskoop.BuildingBlocks.Domain.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.csproj.AssemblyReference.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearnin.FC9B9807.Up2Date
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\refint\ELearningIskoop.Shared.Domain.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ELearningIskoop.Shared.Domain.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Shared.Domain\obj\Debug\net8.0\ref\ELearningIskoop.Shared.Domain.dll

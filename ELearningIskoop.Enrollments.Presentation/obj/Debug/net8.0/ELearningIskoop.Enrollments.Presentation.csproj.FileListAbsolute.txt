@@ -1,0 +1,12 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\bin\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\bin\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\bin\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\refint\ELearningIskoop.Enrollments.Presentation.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ELearningIskoop.Enrollments.Presentation.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Enrollments.Presentation\obj\Debug\net8.0\ref\ELearningIskoop.Enrollments.Presentation.dll

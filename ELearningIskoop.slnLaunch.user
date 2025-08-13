@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ELearningIskoop.AppHost\\ELearningIskoop.AppHost.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+		<WarningsAsErrors />
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	</PropertyGroup>
+	<PropertyGroup>
+		<Authors>ELearning Team</Authors>
+		<Description>ELearning Platform - Application layer building blocks with CQRS and MediatR</Description>
+		<PackageProjectUrl>https://github.com/company/elearning-platform</PackageProjectUrl>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- BuildingBlocks.Domain referansı -->
+		<ProjectReference Include="..\ELearningIskoop.BuildingBlocks.Domain\ELearningIskoop.BuildingBlocks.Domain.csproj" />
+	</ItemGroup>
+</Project>

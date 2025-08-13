@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ELearningIskoop.BuildingBlocks.Application\ELearningIskoop.BuildingBlocks.Application.csproj" />
+    <ProjectReference Include="..\ELearningIskoop.Courses.Domain\ELearningIskoop.Courses.Domain.csproj" />
+    <ProjectReference Include="..\ELearningIskoop.Shared.Domain\ELearningIskoop.Shared.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Events\" />
+  </ItemGroup>
+
+</Project>

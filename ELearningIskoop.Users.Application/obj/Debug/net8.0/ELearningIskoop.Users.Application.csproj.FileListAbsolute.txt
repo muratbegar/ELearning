@@ -1,0 +1,13 @@
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\bin\Debug\net8.0\ELearningIskoop.Users.Application.deps.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\bin\Debug\net8.0\ELearningIskoop.Users.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\bin\Debug\net8.0\ELearningIskoop.Users.Application.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.sourcelink.json
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\refint\ELearningIskoop.Users.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.pdb
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ref\ELearningIskoop.Users.Application.dll
+C:\Users\muratbegar\source\repos\MBIskoopElearning\elaerningiskoop\ELearningIskoop.Users.Application\obj\Debug\net8.0\ELearningIskoop.Users.Application.csproj.AssemblyReference.cache

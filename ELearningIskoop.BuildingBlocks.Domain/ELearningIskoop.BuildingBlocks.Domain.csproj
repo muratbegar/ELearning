@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	
+  </PropertyGroup>
+	<PropertyGroup>
+		<Authors>ELearning Iskoop Team</Authors>
+		<Description>ELearning Platform - Domain layer building blocks and abstractions</Description>
+		<PackageProjectUrl>https://github.com/company/elearning-platform</PackageProjectUrl>
+	</PropertyGroup>
+	<ItemGroup>
+	  <PackageReference Include="MediatR.Contracts" Version="2.0.1" />
+	</ItemGroup>
+</Project>
