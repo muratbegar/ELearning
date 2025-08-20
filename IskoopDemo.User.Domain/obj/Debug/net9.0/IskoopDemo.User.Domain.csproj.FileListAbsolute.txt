@@ -1,0 +1,11 @@
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\bin\Debug\net9.0\IskoopDemo.User.Domain.deps.json
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\bin\Debug\net9.0\IskoopDemo.User.Domain.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\bin\Debug\net9.0\IskoopDemo.User.Domain.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\IskoopDemo.User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\IskoopDemo.User.Domain.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\IskoopDemo.User.Domain.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\IskoopDemo.User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\IskoopDemo.User.Domain.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\refint\IskoopDemo.User.Domain.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\IskoopDemo.User.Domain.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.User.Domain\obj\Debug\net9.0\ref\IskoopDemo.User.Domain.dll

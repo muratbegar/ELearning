@@ -1,0 +1,6 @@
+@IskoopDemo.CourseçAPI_HostAddress = http://localhost:5117
+
+GET {{IskoopDemo.CourseçAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\bin\Debug\net9.0\IskoopDemo.Course.Infrastructure.deps.json
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\bin\Debug\net9.0\IskoopDemo.Course.Infrastructure.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\bin\Debug\net9.0\IskoopDemo.Course.Infrastructure.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\IskoopDemo.Course.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\IskoopDemo.Course.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\IskoopDemo.Course.Infrastructure.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\IskoopDemo.Course.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\IskoopDemo.Course.Infrastructure.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\refint\IskoopDemo.Course.Infrastructure.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\IskoopDemo.Course.Infrastructure.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Course.Infrastructure\obj\Debug\net9.0\ref\IskoopDemo.Course.Infrastructure.dll

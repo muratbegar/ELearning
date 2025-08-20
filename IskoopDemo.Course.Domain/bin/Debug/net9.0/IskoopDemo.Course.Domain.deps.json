@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IskoopDemo.Course.Domain/1.0.0": {
+        "runtime": {
+          "IskoopDemo.Course.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IskoopDemo.Course.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

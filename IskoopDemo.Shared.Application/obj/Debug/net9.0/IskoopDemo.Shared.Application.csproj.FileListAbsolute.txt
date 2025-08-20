@@ -1,0 +1,15 @@
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\bin\Debug\net9.0\IskoopDemo.Shared.Application.deps.json
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\bin\Debug\net9.0\IskoopDemo.Shared.Application.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\bin\Debug\net9.0\IskoopDemo.Shared.Application.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\bin\Debug\net9.0\IskoopDemo.Shared.Domain.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\bin\Debug\net9.0\IskoopDemo.Shared.Domain.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.csproj.AssemblyReference.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.AssemblyInfoInputs.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.AssemblyInfo.cs
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.csproj.CoreCompileInputs.cache
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDe.6A45714D.Up2Date
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\refint\IskoopDemo.Shared.Application.dll
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\IskoopDemo.Shared.Application.pdb
+C:\Users\muratbegar\source\repos\IskoopDemo\IskoopDemo.Shared.Application\obj\Debug\net9.0\ref\IskoopDemo.Shared.Application.dll
