@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\interfaces\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\interfaces\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\interfaces\\ibusinessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\interfaces\\ibusinessrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\interfaces\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\interfaces\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\exceptions\\infrastructureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\exceptions\\infrastructureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\exceptions\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\exceptions\\businessruleexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\guard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\maybe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\maybe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA7E6CA-0BF2-4B70-8051-3FCE23DD5D77}|IskoopLearning.Application\\IskoopLearning.Application.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA7E6CA-0BF2-4B70-8051-3FCE23DD5D77}|IskoopLearning.Application\\IskoopLearning.Application.csproj|solutionrelative:iskooplearning.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA7E6CA-0BF2-4B70-8051-3FCE23DD5D77}|IskoopLearning.Application\\IskoopLearning.Application.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.application\\iskooplearning.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FA7E6CA-0BF2-4B70-8051-3FCE23DD5D77}|IskoopLearning.Application\\IskoopLearning.Application.csproj|solutionrelative:iskooplearning.application\\iskooplearning.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\common\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB135B7C-F93D-4DAE-8910-FE576502A99C}|IskoopLearning.Infrastructure\\IskoopLearning.Infrastructure.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB135B7C-F93D-4DAE-8910-FE576502A99C}|IskoopLearning.Infrastructure\\IskoopLearning.Infrastructure.csproj|solutionrelative:iskooplearning.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A25E8A03-F697-441D-B653-A38A86840B4C}|IskoopLearning.Shared\\IskoopLearning.Shared.csproj|solutionrelative:iskooplearning.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C0F3C1-AE12-4901-B852-6C955747E596}|IskoopLearning.Domain\\IskoopLearning.Domain.csproj|c:\\users\\muratbegar\\source\\repos\\iskooplearning.shared\\iskooplearning.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C0F3C1-AE12-4901-B852-6C955747E596}|IskoopLearning.Domain\\IskoopLearning.Domain.csproj|solutionrelative:iskooplearning.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-20T11:50:33.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Interfaces\\IAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IAuditableEntity.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Interfaces\\IAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:48:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:48:22.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:48:14.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBusinessRule.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IBusinessRule.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Interfaces\\IBusinessRule.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IBusinessRule.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Interfaces\\IBusinessRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:48:05.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Interfaces\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IAggregateRoot.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Interfaces\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:47:56.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:47:47.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfrastructureException.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\InfrastructureException.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Exceptions\\InfrastructureException.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\InfrastructureException.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Exceptions\\InfrastructureException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:47:38.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessRuleException.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\BusinessRuleException.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Exceptions\\BusinessRuleException.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\BusinessRuleException.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Exceptions\\BusinessRuleException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:47:31.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:47:14.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:47:00.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Exceptions\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:46:48.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Guard.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Guard.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\Guard.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Guard.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\Guard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:46:30.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Error.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\Error.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Error.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:46:20.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Maybe.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Maybe.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\Maybe.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Maybe.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\Maybe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:46:06.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Result.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:45:59.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\ValueObject.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:45:53.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Enumeration.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\Enumeration.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\Enumeration.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\Enumeration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:45:36.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\AggregateRoot.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\AggregateRoot.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\AggregateRoot.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:26:14.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:56:51.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IskoopLearning.Application",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Application\\IskoopLearning.Application.csproj",
+              "RelativeDocumentMoniker": "IskoopLearning.Application\\IskoopLearning.Application.csproj",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Application\\IskoopLearning.Application.csproj",
+              "RelativeToolTip": "IskoopLearning.Application\\IskoopLearning.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T10:48:56.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Shared\\Class1.cs",
+              "RelativeToolTip": "IskoopLearning.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:49:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "IskoopLearning.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:48:49.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "IskoopLearning.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:48:24.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "IskoopLearning.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\muratbegar\\source\\repos\\IskoopLearning.Shared\\IskoopLearning.Domain\\Class1.cs",
+              "RelativeToolTip": "IskoopLearning.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:48:07.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
